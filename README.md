@@ -5,7 +5,7 @@ cp .env.example .env
 
 ## Сборка проекта
 ```shell
-docker compose built
+docker compose build
 ```
 
 ## Поднятие проекта
